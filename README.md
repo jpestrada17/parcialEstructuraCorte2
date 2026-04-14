@@ -1,2 +1,2 @@
 # parcialEstructuraCorte2
-¡[imagen](img_pilasycolas.png)
+![imagen](img_pilasycolas.png)
